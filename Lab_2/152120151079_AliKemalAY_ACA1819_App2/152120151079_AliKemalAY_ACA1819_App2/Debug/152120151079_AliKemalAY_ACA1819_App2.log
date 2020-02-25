@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  152120151079_AliKemalAY_ACA1819_App2.cpp
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2.cpp(5): fatal error C1083: Cannot open include file: 'mpi.h': No such file or directory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(423,5): error MSB6006: "CL.exe" exited with code 2.

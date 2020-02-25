@@ -1,0 +1,14 @@
+﻿  152120151079_AliKemalAY_ACA1819_App3.cpp
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(97): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(97): warning C4309: 'argument': truncation of constant value
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(98): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(98): warning C4309: 'argument': truncation of constant value
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(104): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(104): warning C4309: 'argument': truncation of constant value
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(105): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(105): warning C4309: 'argument': truncation of constant value
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(113): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(113): warning C4309: 'argument': truncation of constant value
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(114): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3\152120151079_alikemalay_aca1819_app3.cpp(114): warning C4309: 'argument': truncation of constant value
+  152120151079_AliKemalAY_ACA1819_App3.vcxproj -> C:\Users\Ali\Desktop\152120151079_AliKemalAY_ACA1819_App3\x64\Debug\152120151079_AliKemalAY_ACA1819_App3.exe

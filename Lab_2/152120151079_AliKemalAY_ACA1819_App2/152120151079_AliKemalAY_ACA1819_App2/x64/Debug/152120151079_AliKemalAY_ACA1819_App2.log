@@ -1,0 +1,4 @@
+﻿  152120151079_AliKemalAY_ACA1819_App2.cpp
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2.cpp(73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ali\desktop\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2\152120151079_alikemalay_aca1819_app2.cpp(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  152120151079_AliKemalAY_ACA1819_App2.vcxproj -> C:\Users\Ali\Desktop\152120151079_AliKemalAY_ACA1819_App2\152120151079_AliKemalAY_ACA1819_App2\x64\Debug\152120151079_AliKemalAY_ACA1819_App2.exe
